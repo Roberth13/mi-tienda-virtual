@@ -1,0 +1,177 @@
+[
+  {
+    "id": "velas-emprender",
+    "title": "Curso de Velas para Emprender desde Casa",
+    "category": "dinero",
+    "description": "Aprende a crear velas artesanales desde cero y monta tu propio negocio rentable sin salir de casa.",
+    "price": 25,
+    "image": "/images/velas01.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/WAXKxyuxZWmhKywCNTxpg8GV7Vn3rt7E"
+  },
+  {
+    "id": "accesorios-resina",
+    "title": "Accesorios en Resina para Emprender",
+    "category": "dinero",
+    "description": "Descubre las técnicas de la resina para diseñar joyería y accesorios únicos con alta demanda en el mercado.",
+    "price": 30,
+    "image": "/images/resina01.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/l43qB0O1MRrc8sDKSHX9tG18Lu3WAnlP"
+  },
+  {
+    "id": "acuarelas-negocio",
+    "title": "Acuarelas Personalizadas como Negocio",
+    "category": "dinero",
+    "description": "Domina el arte de la acuarela y monetiza tu talento vendiendo obras personalizadas a nivel internacional.",
+    "price": 25,
+    "image": "/images/acuarela01.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/2UuX73OTUb3ni0JXJCEBU9QzpYWuVoXY"
+  },
+  {
+    "id": "costura-intima",
+    "title": "Costura de Ropa Íntima de Cero a Experto",
+    "category": "dinero",
+    "description": "Crea lencería fina a medida. Aprende patrones, telas y técnicas profesionales para emprender en la moda.",
+    "price": 25,
+    "image": "/images/ropa01.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/GG4pkCgLVpNaOYQ10NHoQOa82vyVK189"
+  },
+  {
+    "id": "vender-whatsapp",
+    "title": "Curso: Cómo Vender por WhatsApp",
+    "category": "dinero",
+    "description": "Multiplica tus ventas automatizando tu WhatsApp Business y cerrando clientes con cierres de alta conversión.",
+    "price": 9.99,
+    "image": "/images/whatsapp.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/FL1ehKuNwd8AGERPV8oqlAx7Bjz4PVEs"
+  },
+  {
+    "id": "ebook-sueno",
+    "title": "Ebook: Optimiza tu Sueño Profundo",
+    "category": "desarrollo-personal",
+    "description": "La guía definitiva para regular tu ritmo circadiano, vencer el insomnio y despertar con energía máxima.",
+    "price": 4,
+    "image": "/images/sueño.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/Ly7t3WYwfceyxSpGZVqco30b8a2OmzAQ"
+  },
+  {
+    "id": "paz-interior",
+    "title": "El Arte de Encontrar la Paz Interior",
+    "category": "desarrollo-personal",
+    "description": "Aprende herramientas de mindfulness para eliminar el estrés diario y vivir en calma absoluta.",
+    "price": 14.90,
+    "hasVariations": true,
+    "image": "/images/paz.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/m6nRq81E2KfXrel2Sdv9yjmMQODbTxbV?p=MTg=",
+    "variations": [
+      {
+        "name": "Básico",
+        "price": 14.90,
+        "url": "https://app.komvii.com/checkout/m6nRq81E2KfXrel2Sdv9yjmMQODbTxbV?p=MTk="
+      },
+      {
+        "name": "Premium",
+        "price": 27,
+        "url": "https://app.komvii.com/checkout/m6nRq81E2KfXrel2Sdv9yjmMQODbTxbV?p=MTg="
+      }
+    ]
+  },
+  {
+    "id": "psicologia-aplicada",
+    "title": "Psicología Aplicada: El Manual Definitivo",
+    "category": "desarrollo-personal",
+    "description": "Entiende el comportamiento humano y usa la psicología práctica para mejorar tus relaciones y tu mentalidad.",
+    "price": 13.99,
+    "image": "/images/psicologia.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/haBZJQeutlWZDCpQ6dnvo9ef84QMFEev"
+  },
+  {
+    "id": "actua-firmeza",
+    "title": "Actúa con Firmeza - Guía Práctica",
+    "category": "desarrollo-personal",
+    "description": "Evoluciona hacia tu mejor versión superando obstáculos emocionales con disciplina y acción masiva.",
+    "price": 5,
+    "image": "/images/firmeza.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/NNL8KJjLTwvGYEm8ULOKIKZRepKZ4BGj"
+  },
+  {
+    "id": "flores-bach",
+    "title": "Taller: Temas de Estudio de Flores de Bach",
+    "category": "desarrollo-personal",
+    "description": "Taller especializado en terapia holística y el uso correcto de las esencias florales para el equilibrio emocional.",
+    "price": 30,
+    "image": "/images/flores.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/KVoi6GqYHqK6NtRNwQYN7uVCizSyzyy8"
+  },
+  {
+    "id": "chef-profesional",
+    "title": "Curso de Chef Profesional",
+    "category": "comida",
+    "description": "Domina las técnicas culinarias internacionales, cortes de nivel experto y emplatados de restaurantes de lujo.",
+    "price": 14.99,
+    "image": "/images/chef.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/jAtt4QfakTmFyCcowkpZiRrylvsd7dJp"
+  },
+  {
+    "id": "comer-mejor",
+    "title": "Comer Mejor en 7 Días",
+    "category": "comida",
+    "description": "El reto definitivo para limpiar tu alimentación, ganar energía y adoptar hábitos saludables sin pasar hambre.",
+    "price": 15,
+    "image": "/images/comida.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/3OsNfNPod0bugWXFfRN9J5RiR4j3LzRQ"
+  },
+  {
+    "id": "postres-veganos",
+    "title": "Ebook: Recetas de Postres Veganos",
+    "category": "comida",
+    "description": "Repostería deliciosa, saludable y 100% libre de ingredientes de origen animal. Sorprende a todos con dulces sanos.",
+    "price": 9.99,
+    "image": "/images/postres.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/PHJNjOvRUhPo28KzPVLNuB50Fe6M9RCw"
+  },
+  {
+    "id": "snacks-saludables",
+    "title": "+150 Recetas de Snacks Saludables",
+    "category": "comida",
+    "description": "Snacks deliciosos, rápidos de hacer y bajos en azúcar para mantener tu peso ideal sin culpa.",
+    "price": 4.99,
+    "image": "/images/snacks.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/TLvCNOAukR2oqplCj1bQBV8l6pA4myry?p=NTI1"
+  },
+  {
+    "id": "adn-del-juego",
+    "title": "El ADN Del Juego (Mentalidad Deportiva)",
+    "category": "fitness",
+    "description": "El sistema definitivo para dominar la psicología en el fútbol y destacar tácticamente sobre el rival.",
+    "price": 6,
+    "image": "/images/adn.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/PIEFHJDON1yzpzC3mNdGbEh8FU5KFPTO"
+  },
+  {
+    "id": "metodologia-futbol",
+    "title": "Metodología de Entrenamiento en Fútbol",
+    "category": "fitness",
+    "description": "Planificación técnica de sesiones de entrenamiento profesionales aplicadas a equipos competitivos.",
+    "price": 8,
+    "image": "/images/futbol.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/tktmHEyRVu2Y3eqItZOwbRdKL89Wliso"
+  },
+  {
+    "id": "gym-hombres",
+    "title": "Cómo Entrenar Bien en el Gym (Hombres) + 4 Bonos",
+    "category": "fitness",
+    "description": "Optimiza tu ganancia de masa muscular y fuerza con rutinas científicas y guías de suplementación.",
+    "price": 4.99,
+    "image": "/images/gimh.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/HIBKT3iAoBEuCnlX1gMHktRD4mJ3Jj60"
+  },
+  {
+    "id": "gym-mujeres",
+    "title": "Guía de Entrenamiento para Mujeres + 4 Bonos",
+    "category": "fitness",
+    "description": "Pack completo para tonificación, pérdida de grasa y entrenamientos de alta intensidad diseñados para la mujer.",
+    "price": 4.99,
+    "image": "/images/gimm.png",
+    "checkoutUrl": "https://app.komvii.com/checkout/5wsOUDxZc9hMIUgpGSaduTv7kRcZS9TD"
+  }
+]
