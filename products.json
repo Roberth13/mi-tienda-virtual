@@ -5,7 +5,7 @@
     "category": "dinero",
     "description": "Aprende a crear velas artesanales desde cero y monta tu propio negocio rentable sin salir de casa.",
     "price": 25,
-    "image": "/images/velas01.png",
+    "image": "/images/velas01.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/WAXKxyuxZWmhKywCNTxpg8GV7Vn3rt7E"
   },
   {
@@ -14,7 +14,7 @@
     "category": "dinero",
     "description": "Descubre las técnicas de la resina para diseñar joyería y accesorios únicos con alta demanda en el mercado.",
     "price": 30,
-    "image": "/images/resina01.png",
+    "image": "/images/resina01.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/l43qB0O1MRrc8sDKSHX9tG18Lu3WAnlP"
   },
   {
@@ -23,7 +23,7 @@
     "category": "dinero",
     "description": "Domina el arte de la acuarela y monetiza tu talento vendiendo obras personalizadas a nivel internacional.",
     "price": 25,
-    "image": "/images/acuarela01.png",
+    "image": "/images/acuarela01.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/2UuX73OTUb3ni0JXJCEBU9QzpYWuVoXY"
   },
   {
@@ -32,7 +32,7 @@
     "category": "dinero",
     "description": "Crea lencería fina a medida. Aprende patrones, telas y técnicas profesionales para emprender en la moda.",
     "price": 25,
-    "image": "/images/ropa01.png",
+    "image": "/images/ropa01.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/GG4pkCgLVpNaOYQ10NHoQOa82vyVK189"
   },
   {
@@ -41,7 +41,7 @@
     "category": "dinero",
     "description": "Multiplica tus ventas automatizando tu WhatsApp Business y cerrando clientes con cierres de alta conversión.",
     "price": 9.99,
-    "image": "/images/whatsapp.png",
+    "image": "/images/whatsapp.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/FL1ehKuNwd8AGERPV8oqlAx7Bjz4PVEs"
   },
   {
@@ -50,7 +50,7 @@
     "category": "desarrollo-personal",
     "description": "La guía definitiva para regular tu ritmo circadiano, vencer el insomnio y despertar con energía máxima.",
     "price": 4,
-    "image": "/images/sueño.png",
+    "image": "/images/sueño.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/Ly7t3WYwfceyxSpGZVqco30b8a2OmzAQ"
   },
   {
@@ -60,7 +60,7 @@
     "description": "Aprende herramientas de mindfulness para eliminar el estrés diario y vivir en calma absoluta.",
     "price": 14.90,
     "hasVariations": true,
-    "image": "/images/paz.png",
+    "image": "/images/paz.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/m6nRq81E2KfXrel2Sdv9yjmMQODbTxbV?p=MTg=",
     "variations": [
       {
@@ -81,7 +81,7 @@
     "category": "desarrollo-personal",
     "description": "Entiende el comportamiento humano y usa la psicología práctica para mejorar tus relaciones y tu mentalidad.",
     "price": 13.99,
-    "image": "/images/psicologia.png",
+    "image": "/images/psicologia.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/haBZJQeutlWZDCpQ6dnvo9ef84QMFEev"
   },
   {
@@ -90,7 +90,7 @@
     "category": "desarrollo-personal",
     "description": "Evoluciona hacia tu mejor versión superando obstáculos emocionales con disciplina y acción masiva.",
     "price": 5,
-    "image": "/images/firmeza.png",
+    "image": "/images/firmeza.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/NNL8KJjLTwvGYEm8ULOKIKZRepKZ4BGj"
   },
   {
@@ -99,7 +99,7 @@
     "category": "desarrollo-personal",
     "description": "Taller especializado en terapia holística y el uso correcto de las esencias florales para el equilibrio emocional.",
     "price": 30,
-    "image": "/images/flores.png",
+    "image": "/images/flores.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/KVoi6GqYHqK6NtRNwQYN7uVCizSyzyy8"
   },
   {
@@ -108,7 +108,7 @@
     "category": "comida",
     "description": "Domina las técnicas culinarias internacionales, cortes de nivel experto y emplatados de restaurantes de lujo.",
     "price": 14.99,
-    "image": "/images/chef.png",
+    "image": "/images/chef.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/jAtt4QfakTmFyCcowkpZiRrylvsd7dJp"
   },
   {
@@ -117,7 +117,7 @@
     "category": "comida",
     "description": "El reto definitivo para limpiar tu alimentación, ganar energía y adoptar hábitos saludables sin pasar hambre.",
     "price": 15,
-    "image": "/images/comida.png",
+    "image": "/images/comida.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/3OsNfNPod0bugWXFfRN9J5RiR4j3LzRQ"
   },
   {
@@ -126,7 +126,7 @@
     "category": "comida",
     "description": "Repostería deliciosa, saludable y 100% libre de ingredientes de origen animal. Sorprende a todos con dulces sanos.",
     "price": 9.99,
-    "image": "/images/postres.png",
+    "image": "/images/postres.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/PHJNjOvRUhPo28KzPVLNuB50Fe6M9RCw"
   },
   {
@@ -135,7 +135,7 @@
     "category": "comida",
     "description": "Snacks deliciosos, rápidos de hacer y bajos en azúcar para mantener tu peso ideal sin culpa.",
     "price": 4.99,
-    "image": "/images/snacks.png",
+    "image": "/images/snacks.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/TLvCNOAukR2oqplCj1bQBV8l6pA4myry?p=NTI1"
   },
   {
@@ -144,7 +144,7 @@
     "category": "fitness",
     "description": "El sistema definitivo para dominar la psicología en el fútbol y destacar tácticamente sobre el rival.",
     "price": 6,
-    "image": "/images/adn.png",
+    "image": "/images/adn.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/PIEFHJDON1yzpzC3mNdGbEh8FU5KFPTO"
   },
   {
@@ -153,7 +153,7 @@
     "category": "fitness",
     "description": "Planificación técnica de sesiones de entrenamiento profesionales aplicadas a equipos competitivos.",
     "price": 8,
-    "image": "/images/futbol.png",
+    "image": "/images/futbol.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/tktmHEyRVu2Y3eqItZOwbRdKL89Wliso"
   },
   {
@@ -162,7 +162,7 @@
     "category": "fitness",
     "description": "Optimiza tu ganancia de masa muscular y fuerza con rutinas científicas y guías de suplementación.",
     "price": 4.99,
-    "image": "/images/gimh.png",
+    "image": "/images/gimh.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/HIBKT3iAoBEuCnlX1gMHktRD4mJ3Jj60"
   },
   {
@@ -171,7 +171,7 @@
     "category": "fitness",
     "description": "Pack completo para tonificación, pérdida de grasa y entrenamientos de alta intensidad diseñados para la mujer.",
     "price": 4.99,
-    "image": "/images/gimm.png",
+    "image": "/images/gimm.webp",
     "checkoutUrl": "https://app.komvii.com/checkout/5wsOUDxZc9hMIUgpGSaduTv7kRcZS9TD"
   }
 ]
